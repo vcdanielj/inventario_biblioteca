@@ -9,6 +9,8 @@ Este repositorio contiene el código fuente para un sistema de gestión de inven
 4. Prestar y devolver libros.
 5. Generar informes sobre el inventario.
 
+[Diagrama](https://github.com/vcdanielj/inventario_biblioteca/blob/main/Diagrama%20Proyecto%20Inventario.png)
+
 ## Tecnologías:
 
 1. Python
